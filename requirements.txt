@@ -1,0 +1,7 @@
+BeautifulSoup4
+requests
+streamlit
+PyPDF2
+transformers
+torch
+nltk
